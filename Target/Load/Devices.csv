@@ -1,0 +1,7 @@
+Device,Available,Power,Initial,Final,Innovation,Imitation,Type
+light,Y,6,4,4,0,0,Domestic
+phone,Y,5,1,1,0,0,Domestic
+Refrigerator,Y,220,1,1,0,0,Domestic
+TV,Y,20,1,1,0,0,Domestic
+Fan,Y,40,1,1,0,0,Domestic
+kerosene,N,1,1,1,0,0,Domestic
